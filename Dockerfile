@@ -1,4 +1,4 @@
-FROM mysql:5.7.26
+FROM mysql:5.7.27
 MAINTAINER Ku8Manager <ku8manager@hpe.com>
 
 # set timezone
